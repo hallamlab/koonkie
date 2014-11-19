@@ -6,4 +6,4 @@ Current next-generation sequencing platforms produce increasingly vast text data
 
 Citation:
 
-Kim D., Konwar K.M., Hanson N.W., Hallam S.J., *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, [Fourth ASE International Conference on Big Data (BigData 2014)](http://www.scienceengineering.org/ase/conference/2014/bigdata/boston/website/), December 13--16, 2014 (to appear).
+Kim D., Konwar K.M., Hanson N.W., Hallam S.J., *Koonkie: An Automated Software Tool for Processing Environmental Sequence Information using Hadoop*, [Fourth ASE International Conference on Big Data (BigData 2014)](http://www.scienceengineering.org/ase/conference/2014/bigdata/boston/website/), Cambridge MA, December 13--16, 2014 (to appear).
